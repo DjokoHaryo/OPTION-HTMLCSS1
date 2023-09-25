@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1b1b1b;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: smaller;
+}
+
+.article {
+    background-color: aqua;
+    color: white;
+}
+
+.location {
+    background-color: tomato;
+    color: white;
+}
